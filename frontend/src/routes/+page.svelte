@@ -13,6 +13,8 @@
         <h2 class="text-2xl text-gray-600 font-light tracking-wide">
             Morgan e Nicolò
         </h2>
+
+        <a href="/auth">Accedi</a>
     </div>
 </div>
 
