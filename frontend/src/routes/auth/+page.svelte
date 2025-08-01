@@ -1,9 +1,6 @@
 <script>
-    import Navbar from "$lib/navbar.svelte";
     import Footer from "$lib/footer.svelte";
 </script>
-
-<Navbar />
 
 <div class="flex justify-center-safe gap-3">
     <a href="/auth/login" class=" font-extrabold"> Login </a>
